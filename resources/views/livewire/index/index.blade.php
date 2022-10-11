@@ -1,4 +1,5 @@
 <div>
+    <script src="https://cdn.tailwindcss.com"></script>
     <div class="grid grid-flow-col gap-3">
         <div class="col-span-4 flex items-center justify-center">
             <div class="max-w-sm bg-white shadow-lg rounded-lg overflow-hidden my-4">
