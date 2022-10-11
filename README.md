@@ -2,7 +2,7 @@
 
 Lees deze hele lastige documentatie om te weten hoe je de demo werkend kan krijgen
 
-# Stap 1
+## Stap 1
 
 Clone de repo en installeer Laravel, de compose packages en npm packages
 
@@ -33,4 +33,5 @@ Maak de lamp en deurbel aan met dit command in Postman
 Run dit command zodat je de site ook kan gebruiken op een smartphone
 
     php artisan serve --host 0.0.0.0(local ip) --port=8000
+https://www.qr-code-generator.com/
 
