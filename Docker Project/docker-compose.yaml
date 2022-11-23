@@ -31,5 +31,5 @@ services:
             - NAME_ENCODING=true
             - DATA_MODEL=collection-per-attribute
             - LOGOPS_LEVEL=DEBUG
+            - MAX_PAGE_SIZE=10000
         container_name: sth
-  
